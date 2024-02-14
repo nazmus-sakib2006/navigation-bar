@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="main">
+        <header class="hero">
+           
+            <div>
+                <nav class="main_manu">
+                    <ul>
+                        <li><a href="#">HOME</a></li>
+                        <li><a href="#">ABOUT ME</a></li>
+                        <li><a href="#">PORTFOLIO</a>
+                        <li><a href="#">Service</a></li>                       
+                        <li><a href="#">TARMINATOR</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Blog</a></li>
+                        
+                    </ul>
+                   </nav>
+                   
+            </div>
+                <div class="area">
+                    EXPLORE THE BEAUTY OF GREECE
+                 </div>
+                 
+        </header>
+              <button>
+                <div class="some">BEST TRAVEL PLACES FOR YOU</div>
+              </button>    
+    </section>
+    Lorem ipsum dolor s Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae voluptatum officiis ratione distinctio a quam excepturi eligendi sunt, voluptatem facere at odit voluptas enim delectus soluta ipsam accusantium voluptate autem sapiente, reiciendis exercitationem vero architecto? Similique cum, tempora consequatur numquam quasi aliquam. Laborum distinctio alias officiis nobis vitae necessitatibus maiores aperiam quis. Facere cum nisi inventore! Alias repudiandae accusamus odit perferendis obcaecati quis iusto! Quasi aliquid, culpa reiciendis rem nostrum quia molestias veritatis sed sint sequi vel! Repudiandae laborum soluta corrupti officia voluptatum, assumenda ratione hic vero laboriosam quis earum nemo sed voluptas voluptatem, nam, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat animi pariatur omnis temporibus corrupti, tempora, fugit tempore saepe harum atque reiciendis quas vitae earum similique facere consequatur doloremque alias vero suscipit minus. Accusantium repudiandae quibusdam itaque eos! Fugiat dolorum debitis eveniet repellat ut totam dolorem dolor ducimus maiores repellendus perferendis accusamus architecto minima itaque id beatae, maxime mollitia nihil autem officiis obcaecati reprehenderit. Repellendus, quo consectetur, hic nulla vel, quasi nesciunt velit delectus earum saepe fugiat dolor maiores cumque veritatis sapiente incidunt voluptatibus corporis officia iste odio odit voluptatum reiciendis? Ad laboriosam, error vel explicabo ut unde voluptas corrupti veniam. ut cupiditate repellat unde inventore! it amet consectetur adipisicing elit. Exercitationem similique explicabo odio dolorem ipsum praesentium ipsam voluptate cum quaerat. Laboriosam mollitia modi dolor iure magni nobis beatae velit eligendi, quam quibusdam ea deserunt, sit dignissimos saepe placeat quia doloremque possimus ut eius perferendis impedit distinctio ad. Quos eius optio esse consequatur inventore repudiandae provident, aliquam recusandae repellat vero fugit omnis iste voluptatum non blanditiis at magnam dolorum autem id? Cupiditate ipsam tempora iste, quod consequatur perspiciatis molestiae temporibus ipsa inventore nisi, enim officia dolores itaque magni sed eligendi cumque quisquam perferendis minima sapiente impedit. Dolore repellendus mollitia voluptatem saepe vel officiis, natus hic dolores unde repudiandae suscipit asperiores accusantium tempore exercitationem eveniet possimus ipsam quas? Praesentium quos, nostrum veritatis ratione quia voluptatem modi laudantium dolorem corrupti cum sunt culpa et officia esse libero minus similique alias labore minima blanditiis! Iusto aspernatur accusamus sequi ut, voluptate illum ad recusandae veritatis saepe, ullam eveniet, totam error vero autem facere commodi? Commodi aliquid asperiores libero laudantium magnam blanditiis, modi esse quae dignissimos labore ea in a vitae reprehenderit! In iste sapiente nulla architecto numquam veritatis nobis quasi suscipit praesentium unde aperiam nesciunt, sunt illum laudantium debitis dignissimos illo officiis eum odio nostrum consectetur.
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    height: 90vh;
+    width: 100%;
+    background-size:cover ;
+}
+.hero{
+    width: 100%;
+    height: 50px;
+
+}
+img{
+    height: 50px;
+    width: 20%;
+}
+.main_manu ul{
+    margin: 0;
+    padding-top: 15px;
+    list-style: none;
+    text-align: center;
+}
+.main_manu li{
+    display: inline-block;
+    position: relative;
+}
+.main_manu li a{
+    display:block;
+    padding: 12px 15px;
+    color: white;
+    text-decoration: none;
+}
+.main_manu li a:hover{
+    background-color: #0652dd;
+}
+.main_manu ul li:hover a{
+    background-color:#c4c5ff ;
+    border-radius: 50px;
+}
+.area{
+    font-size: 75px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    text-align: center;
+}
+.some{
+    display: flex;
+    text-align: center;
+}
+
+
+
+
+
+
+
